@@ -14,8 +14,8 @@ This project sets up an AWS infrastructure using Terraform to trigger a Spark jo
 Clone this repository to your local machine.
 
 ```bash
-git clone <repository_url>
-cd <repository_directory>
+git clone https://github.com/tranthe170/tringger_spark_with_lambda.git
+cd tringger_spark_with_lambda
 ```
 
 Initialize Terraform.
